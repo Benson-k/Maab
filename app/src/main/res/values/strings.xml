@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="facebook_app_id">980003735414297</string>
+    <string name="twitter_consumer_key">26mDAikNIbjGrraxcjROxOCjE</string>
+    <string name="twitter_consumer_secret">DEDmHldCFL4yFikcr8enN7npueQ2GAwYfpHkkbcgOeQIUz2N7W</string>
+
+    <string name="parse_app_id">DphB9F88YHU73GFJhRqJvwlqh8JAqRATGQoNVBEQ</string>
+    <string name="parse_client_key">4Di8RqydOmGSccvKxYSsEak6XoC28wqCzyydIkXI</string>
+
+    <string name="app_name">LeanStartUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">This is tab: %1$d</string>
+    <string name="profile">Profile</string>
+    <string name="something">Something</string>
+    <string name="anything">Anything</string>
+    <string name="share">Share</string>
+    <string name="login">Sign In</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
